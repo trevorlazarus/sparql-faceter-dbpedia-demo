@@ -63,7 +63,7 @@
             }
         };
 
-        var endpointUrl = 'http://dbpedia.org/sparql';
+        var endpointUrl = 'https://dbpedia.org/sparql';
 
         // We are building a faceted search for writers.
         var rdfClass = '<http://dbpedia.org/ontology/Writer>';
